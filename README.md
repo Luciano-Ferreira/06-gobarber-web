@@ -42,3 +42,20 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Technologies used
+
+Hooks from reactJS
+  useContext: to pass values deep into the component tree without explicitly passing it through each component.
+  useEffect: to perform side effects on functional components.
+  useState: useState is a Hook that allows you to add the React state to a function component.
+  
+react-icons.
+
+JWT: jwt was used to control the user's session time so that he is not logged in forever
+axios: axios was used to connect to the back-end api
+YUP: yup was used to validate user data
+
+  
+  
