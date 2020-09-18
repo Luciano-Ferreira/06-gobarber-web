@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Header = styled.div`
+const Header = styled.div`
   position: absolute;
   background-color: #28262e;
   width: 100%;
@@ -42,4 +42,4 @@ export const Header = styled.div`
   }
 `;
 
-export const HeaderAvatar = styled.div``;
+export default Header;

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Header, HeaderAvatar } from './styles';
+import Header from './styles';
 import logoImg from '../../assets/logo.svg';
 
 const Dashboard: React.FC = () => (
