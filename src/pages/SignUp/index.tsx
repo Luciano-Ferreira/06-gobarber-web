@@ -33,7 +33,7 @@ const SignUp: React.FC = () => {
 
   // eslint-disable-next-line @typescript-eslint/ban-types
   const handleSubmit = useCallback(
-    async (data: object) => {
+    async (data: SignUpFormData) => {
       try {
         formRef.current?.setErrors({});
 
