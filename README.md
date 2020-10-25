@@ -66,3 +66,6 @@ YUP: yup was used to validate user data.
 mkdir src/pages/ForgotPassword
 touch src/pages/ForgotPassword/index.tsx
 touch src/pages/ForgotPassword/styles.ts
+
+## Enviando formulário a api
+
