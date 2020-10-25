@@ -51,7 +51,7 @@ Hooks from reactJS:
   useEffect: to perform side effects on functional components;
   useState: useState is a Hook that allows you to add the React state to a function component;
   in addition to these hooks we created a new hook to handle the useAuth styling
-  
+
 react-icons.
 
 JWT: jwt was used to control the user's session time so that he is not logged in forever.
@@ -59,5 +59,10 @@ axios: axios was used to connect to the back-end api.
 YUP: yup was used to validate user data.
 
 
-  
-  
+## nivel 5
+
+## Criando pagina de recuperação
+
+mkdir src/pages/ForgotPassword
+touch src/pages/ForgotPassword/index.tsx
+touch src/pages/ForgotPassword/styles.ts
