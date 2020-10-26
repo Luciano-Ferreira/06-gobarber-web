@@ -69,7 +69,7 @@ touch src/pages/ForgotPassword/styles.ts
 
 ## Enviando formulário a api
 
-## Criando pagina de reddefinição
+## Criando pagina de redefinição
 
 mkdir src/pages/ResetPassword
 touch src/pages/ResetPassword/index.tsx
