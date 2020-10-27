@@ -77,3 +77,8 @@ touch src/pages/ResetPassword/styles.ts
 
 ## Implementando redefinição
 
+# Dashboard
+
+## Criando header
+
+## Próximo agendamento
