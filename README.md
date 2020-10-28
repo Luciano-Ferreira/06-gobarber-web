@@ -90,3 +90,5 @@ touch src/pages/ResetPassword/styles.ts
 ## Disponibilidade do mês
 
 Nunca criar/manipular variaveis em tempo de renderização, em um return por exemplo
+
+## Agendamentos da API
