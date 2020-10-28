@@ -86,3 +86,7 @@ touch src/pages/ResetPassword/styles.ts
 ## Listagem de agendamentos
 
 ## Calendario
+
+## Disponibilidade do mês
+
+Nunca criar/manipular variaveis em tempo de renderização, em um return por exemplo
