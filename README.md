@@ -106,3 +106,6 @@ touch src/pages/Profile/index.tsx
 touch src/pages/Profile/styles.ts
 
 ## Troca de avatar
+
+## Alteração dos dados
+
