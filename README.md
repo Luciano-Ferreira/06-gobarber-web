@@ -96,3 +96,11 @@ Nunca criar/manipular variaveis em tempo de renderização, em um return por exe
 ## Exibindo agendamentos em tela
 
 ## Finalizando listagem de agendamentos
+
+# Perfil do usuário
+
+## Página de perfil
+
+mkdir src/pages/Profile
+touch src/pages/Profile/index.tsx
+touch src/pages/Profile/styles.ts
