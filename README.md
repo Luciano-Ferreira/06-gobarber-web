@@ -92,3 +92,6 @@ touch src/pages/ResetPassword/styles.ts
 Nunca criar/manipular variaveis em tempo de renderização, em um return por exemplo
 
 ## Agendamentos da API
+
+## Exibindo agendamentos em tela
+
