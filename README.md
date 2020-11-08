@@ -108,5 +108,3 @@ touch src/pages/Profile/styles.ts
 ## Troca de avatar
 
 ## Alteração dos dados
-
-teste
