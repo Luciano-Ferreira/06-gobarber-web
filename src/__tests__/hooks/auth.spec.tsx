@@ -3,6 +3,7 @@ import MockAdapter from 'axios-mock-adapter';
 
 import { useAuth, AuthProvider } from '../../hooks/auth';
 import api from '../../services/apiClient';
+import 'jest-styled-components';
 
 const apiMock = new MockAdapter(api);
 

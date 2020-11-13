@@ -18,6 +18,7 @@
     "axios": "^0.20.0",
     "cors": "^2.8.5",
     "date-fns": "^2.16.1",
+    "jest-styled-components": "^7.0.3",
     "polished": "^3.6.6",
     "react": "^16.13.1",
     "react-day-picker": "^7.4.8",
@@ -34,7 +35,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom-fourteen",
     "test:coverage": "react-scripts test --coverage --watchAll false",
     "eject": "react-scripts eject"
   },
