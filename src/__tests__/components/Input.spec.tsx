@@ -44,7 +44,7 @@ describe('Input component', () => {
 
     await waitFor(() => {
       expect(containerElement).not.toHaveStyle('border-color: #ff9000');
-      expect(containerElement).toHaveStyle('color: #ff9000');
+      expect(containerElement).not.toHaveStyle('color: #ff9000');
     });
   });
 
