@@ -44,67 +44,14 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-## Technologies used
+## :rocket: Technologies used
 
 Hooks from reactJS:
-  useContext: to pass values deep into the component tree without explicitly passing it through each component;
-  useEffect: to perform side effects on functional components;
-  useState: useState is a Hook that allows you to add the React state to a function component;
-  in addition to these hooks we created a new hook to handle the useAuth styling
+- useContext: to pass values deep into the component tree without explicitly passing it through each component;
+- useEffect: to perform side effects on functional components;
+- useState: useState is a Hook that allows you to add the React state to a function component;
+- in addition to these hooks we created a new hook to handle the useAuth styling react-icons.
+- JWT: jwt was used to control the user's session time so that he is not logged in forever.
+- axios: axios was used to connect to the back-end api.
+- YUP: yup was used to validate user data.
 
-react-icons.
-
-JWT: jwt was used to control the user's session time so that he is not logged in forever.
-axios: axios was used to connect to the back-end api.
-YUP: yup was used to validate user data.
-
-
-## nivel 5
-
-## Criando pagina de recuperação
-
-mkdir src/pages/ForgotPassword
-touch src/pages/ForgotPassword/index.tsx
-touch src/pages/ForgotPassword/styles.ts
-
-## Enviando formulário a api
-
-## Criando pagina de redefinição
-
-mkdir src/pages/ResetPassword
-touch src/pages/ResetPassword/index.tsx
-touch src/pages/ResetPassword/styles.ts
-
-## Implementando redefinição
-
-# Dashboard
-
-## Criando header
-
-## Próximo agendamento
-
-## Listagem de agendamentos
-
-## Calendario
-
-## Disponibilidade do mês
-
-Nunca criar/manipular variaveis em tempo de renderização, em um return por exemplo
-
-## Agendamentos da API
-
-## Exibindo agendamentos em tela
-
-## Finalizando listagem de agendamentos
-
-# Perfil do usuário
-
-## Página de perfil
-
-mkdir src/pages/Profile
-touch src/pages/Profile/index.tsx
-touch src/pages/Profile/styles.ts
-
-## Troca de avatar
-
-## Alteração dos dados
