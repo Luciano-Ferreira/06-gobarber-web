@@ -46,7 +46,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## :rocket: Technologies used
 
-Hooks from reactJS:
+- Hooks from reactJS:
 - useContext: to pass values deep into the component tree without explicitly passing it through each component;
 - useEffect: to perform side effects on functional components;
 - useState: useState is a Hook that allows you to add the React state to a function component;
