@@ -226,6 +226,8 @@ export const Calendar = styled.aside`
     padding-bottom: 0;
     background: #3e3b47;
     border-radius: 0.6rem;
+    // ajuste no calendario [firefox]
+    padding: 2vh 1.8vh 0vh 1.8vh;
   }
 
   .DayPicker,
@@ -235,6 +237,8 @@ export const Calendar = styled.aside`
 
   .DayPicker-NavButton {
     color: #999591 !important;
+    // ajuste no calendario [firefox]
+    margin-top: 16px;
   }
 
   .DayPicker-NavButton--prev {
