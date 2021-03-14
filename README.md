@@ -1,3 +1,15 @@
+# GoBarber front-end web
+
+<div align="center">
+  <img src="./github/logo.svg" alt="GoBarber">
+</div>
+
+---
+<div align="center" >
+  <img src="./github/readmegobarberweb.gif" alt="demo-web" height="425">
+</div>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
